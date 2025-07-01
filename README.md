@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Cruel World! I'm Theo 👋
 
 <!--
 **thewtheow/thewtheow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning UI Design & Html
