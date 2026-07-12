@@ -33,6 +33,8 @@
 </table>
 
 <picture>
+        <h2 align='center'><i><a href="https://github.com/thewtheow">Activity Graph 📈</i></h2>
+    <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=dracula&area=true&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=react&area=true&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=react&area=true&hide_border=true" />
