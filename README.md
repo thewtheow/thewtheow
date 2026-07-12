@@ -2,10 +2,12 @@
 <h3 align="center"></h3>
 <p align="center">
   <a href="https://github.com/thewtheow">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=thewtheow&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
   </a>
   <img src="https://img.shields.io/github/followers/thewtheow?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwWm0zLjUgOS42OGMwIC42MS0uMTUgMS4xMy0uNDMgMS41Ni0uMjggMS4wNC0uNzMgMS4zNy0xLjIgMS42N2EzLjM4IDMuMzggMCAwIDEtMS42IDAuNTNjLTAuNiA1LTEuMTMgMC0xLjYtMC41M2EzLjM4IDMuMzggMCAwIDEtMS4yLTEuNjcgMy44IDMuOCAwIDAgMS0wLjQzLTEuNTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
 </p>
+
+<!-- Snake Animation - TOP ONLY -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake-dark.svg" />
