@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm thewtheow</h1>
-<h3 align="center"></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+Ipsum+Dolor+Sit+Amet;Assalamualaikum+Have+We+Ever+Met%3F" alt="Typing SVG" /></a>
 <p align="center">
+  
   <a href="https://github.com/thewtheow">
     <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
   </a>
