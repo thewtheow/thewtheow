@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/theodoruscalvin/">
     <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://www.instagram.com/USERNAME_IG/">
+<!--  <a href="https://www.instagram.com/USERNAME_IG/"> -->
     <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
