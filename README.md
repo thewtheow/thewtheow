@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning UI Design & Html
 [![GitHub Streak](https://streak-stats.demolab.com?user=thewtheow&theme=neon)](https://git.io/streak-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
