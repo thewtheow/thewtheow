@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewtheow&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8" />
 </p>
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=thewtheow&theme=neon)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thewtheow&theme=neon" alt="GitHub Streak" /></a>
 </p>
 
 <picture>
