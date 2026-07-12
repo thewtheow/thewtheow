@@ -17,15 +17,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thewtheow/thewtheow/main/kucing.gif" width="500" alt="kucing.gif" />
-</p>
-
 ## 📊 **GitHub Analytics - Data Visualization**
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thewtheow&theme=neon" alt="GitHub Streak" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/thewtheow/thewtheow/main/kucing.gif" width="280" alt="kucing.gif" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewtheow&theme=synthwave-84&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=dracula&area=true&hide_border=true" />
