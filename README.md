@@ -48,8 +48,10 @@
     <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
-
+---
 <p align="center"><i>"Narrative is nothing proof is everything."</i></p>
+---
+
 <!-- Winter Themed Sign Off -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visit!" alt="Sign Off"/>
