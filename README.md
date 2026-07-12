@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+Ipsum+Dolor+Sit+Amet;Assalamualaikum+Have+We+Ever+Met%3F" alt="Typing SVG" />
-</a></p>
+</a></div>
 
 <p align="center">
     <a href="https://github.com/thewtheow">
