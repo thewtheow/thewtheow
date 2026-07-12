@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewtheow&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewtheow&theme=synthwave-84&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=thewtheow&theme=neon)](https://git.io/streak-stats)
 </p>
 
 <picture>
@@ -29,7 +29,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=react&area=true&hide_border=true" />
 </picture>
 <p align="center">
-  <a href="mailto:calvin.pskd98@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://www.linkedin.com/in/theodoruscalvin/">
