@@ -21,6 +21,8 @@
   <img src="https://raw.githubusercontent.com/thewtheow/thewtheow/main/kucing.gif" width="500" alt="kucing.gif" />
 </p>
 
+## 📊 **GitHub Analytics - Data Visualization**
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thewtheow&theme=neon" alt="GitHub Streak" /></a>
 </p>
