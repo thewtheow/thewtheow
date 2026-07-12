@@ -25,7 +25,7 @@
       <img src="https://raw.githubusercontent.com/thewtheow/thewtheow/main/kucing.gif" width="280" alt="kucing.gif" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewtheow&theme=synthwave-84&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thewtheow&theme=sakura-x" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
