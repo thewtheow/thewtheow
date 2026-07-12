@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=dracula&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=dracula&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=react&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thewtheow&theme=react&area=true&hide_border=true" />
 </picture>
 <p align="center">
   <a href="mailto:calvin.pskd98@gmail.com">
