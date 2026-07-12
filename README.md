@@ -48,9 +48,8 @@
     <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
----
+
 <p align="center"><i>"Narrative is nothing proof is everything."</i></p>
----
 
 <!-- Winter Themed Sign Off -->
 <div align="center">
