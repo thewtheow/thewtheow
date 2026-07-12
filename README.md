@@ -20,12 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thewtheow&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewtheow&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8" />
-</p>
-<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thewtheow&theme=neon" alt="GitHub Streak" /></a>
 </p>
 
