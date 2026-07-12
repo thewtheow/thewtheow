@@ -1,3 +1,5 @@
+<!-- running Animation -  -->
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=500&lines=Lorem+Ipsum+Dolor+Sit+Amet;Assalamualaikum+Have+We+Ever+Met%3F" alt="Typing SVG" />
 </a></p>
