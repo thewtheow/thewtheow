@@ -14,6 +14,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thewtheow/thewtheow/main/myanimation.gif" width="500" alt="kucing.gif" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thewtheow&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true" />
