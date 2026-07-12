@@ -48,3 +48,7 @@
 </p>
 
 <p align="center"><i>"Narrative is nothing proof is everything."</i></p>
+<!-- Winter Themed Sign Off -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visit!" alt="Sign Off"/>
+</div>
