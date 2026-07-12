@@ -1,7 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+Ipsum+Dolor+Sit+Amet;Assalamualaikum+Have+We+Ever+Met%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+Ipsum+Dolor+Sit+Amet;Assalamualaikum+Have+We+Ever+Met%3F" alt="Typing SVG" />
+</a>
+
 <p align="center">
-  
-  <a href="https://github.com/thewtheow">
+    <a href="https://github.com/thewtheow">
     <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
   </a>
   <img src="https://img.shields.io/github/followers/thewtheow?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwWm0zLjUgOS42OGMwIC42MS0uMTUgMS4xMy0uNDMgMS41Ni0uMjggMS4wNC0uNzMgMS4zNy0xLjIgMS42N2EzLjM4IDMuMzggMCAwIDEtMS42IDAuNTNjLTAuNiA1LTEuMTMgMC0xLjYtMC41M2EzLjM4IDMuMzggMCAwIDEtMS4yLTEuNjcgMy44IDMuOCAwIDAgMS0wLjQzLTEuNTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
