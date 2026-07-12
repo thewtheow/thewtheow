@@ -1,19 +1,12 @@
-## Hello Cruel World! I'm Theo 👋
+<h1 align="center">Hi 👋, I'm thewtheow</h1>
+<h3 align="center"></h3>
+<p align="center">
+  <a href="https://github.com/thewtheow">
+    <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+  </a>
+  <img src="https://img.shields.io/github/followers/thewtheow?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwWm0zLjUgOS42OGMwIC42MS0uMTUgMS4xMy0uNDMgMS41Ni0uMjggMS4wNC0uNzMgMS4zNy0xLjIgMS42N2EzLjM4IDMuMzggMCAwIDEtMS42IDAuNTNjLTAuNiA1LTEuMTMgMC0xLjYtMC41M2EzLjM4IDMuMzggMCAwIDEtMS4yLTEuNjcgMy44IDMuOCAwIDAgMS0wLjQzLTEuNTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
+</p>
 
-<!--
-**thewtheow/thewtheow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thewtheow/thewtheow/output/github-contribution-grid-snake.svg" />
